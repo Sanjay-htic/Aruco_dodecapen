@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Notebooks
+*.ipynb
+
+# Data files
+*.npz
+*.npy
+*.json
+
+# Images / datasets
+*.jpg
+*.png
+*.mp4
+
+# Generated outputs
+output/
+Rigid/
+Numpy/
+
+# Dataset folders
+dodeca_dataset/
+dodeca_pentip_dataset/
+dodeca_validate_pentip/
+dodeca_validate_pentip_1/
+calib_images/
+
+# Aruco data
+aruco_*/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
